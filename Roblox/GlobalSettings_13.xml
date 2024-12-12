@@ -1,0 +1,306 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<External>null</External>
+	<External>nil</External>
+	<Item class="GameSettings" referent="RBX25E53E1D276B4DDEA85A93838AB9120C">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+			<bool name="DefinesCapabilities">false</bool>
+			<string name="Name">Game Options</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+			<bool name="VideoCaptureEnabled">true</bool>
+		</Properties>
+	</Item>
+	<Item class="LuaSettings" referent="RBX0C49D50710A24780A6A9B10306888489">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+			<bool name="DefinesCapabilities">false</bool>
+			<string name="Name">Lua</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+		</Properties>
+	</Item>
+	<Item class="DebugSettings" referent="RBX3B8B6BD1303A4BAE9082E3F1E6B052C5">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+			<bool name="DefinesCapabilities">false</bool>
+			<bool name="IsScriptStackTracingEnabled">true</bool>
+			<string name="Name">Diagnostics</string>
+			<bool name="ReportSoundWarnings">false</bool>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+			<token name="TickCountPreciseOverride">2</token>
+		</Properties>
+	</Item>
+	<Item class="PhysicsSettings" referent="RBXBABEDC1C489349438A1D9E5D6E1FCBA0">
+		<Properties>
+			<bool name="AllowSleep">true</bool>
+			<bool name="AreAnchorsShown">false</bool>
+			<bool name="AreAssembliesShown">false</bool>
+			<bool name="AreAssemblyCentersOfMassShown">false</bool>
+			<bool name="AreAwakePartsHighlighted">false</bool>
+			<bool name="AreBodyTypesShown">false</bool>
+			<bool name="AreCollisionCostsShown">false</bool>
+			<bool name="AreConstraintForcesShownForSelectedOrHoveredInstances">false</bool>
+			<bool name="AreConstraintTorquesShownForSelectedOrHoveredInstances">false</bool>
+			<bool name="AreContactForcesShownForSelectedOrHoveredAssemblies">false</bool>
+			<bool name="AreContactIslandsShown">false</bool>
+			<bool name="AreContactPointsShown">false</bool>
+			<bool name="AreGravityForcesShownForSelectedOrHoveredAssemblies">false</bool>
+			<bool name="AreJointCoordinatesShown">false</bool>
+			<bool name="AreMagnitudesShownForDrawnForcesAndTorques">false</bool>
+			<bool name="AreMechanismsShown">false</bool>
+			<bool name="AreModelCoordsShown">false</bool>
+			<bool name="AreNonAnchorsShown">false</bool>
+			<bool name="AreOwnersShown">false</bool>
+			<bool name="ArePartCoordsShown">false</bool>
+			<bool name="AreRegionsShown">false</bool>
+			<bool name="AreSolverIslandsShown">false</bool>
+			<bool name="AreTerrainReplicationRegionsShown">false</bool>
+			<bool name="AreTimestepsShown">false</bool>
+			<bool name="AreUnalignedPartsShown">false</bool>
+			<bool name="AreWorldCoordsShown">false</bool>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+			<bool name="DefinesCapabilities">false</bool>
+			<bool name="DisableCSGv2">false</bool>
+			<bool name="DisableCSGv3ForPlugins">false</bool>
+			<bool name="DrawConstraintsNetForce">false</bool>
+			<bool name="DrawContactsNetForce">false</bool>
+			<bool name="DrawTotalNetForce">false</bool>
+			<bool name="EnableForceVisualizationSmoothing">false</bool>
+			<float name="FluidForceDrawScale">1</float>
+			<bool name="ForceCSGv2">true</bool>
+			<float name="ForceDrawScale">0.00100000005</float>
+			<int name="ForceVisualizationSmoothingSteps">24</int>
+			<bool name="IsInterpolationThrottleShown">false</bool>
+			<bool name="IsReceiveAgeShown">false</bool>
+			<bool name="IsTreeShown">false</bool>
+			<string name="Name">Physics</string>
+			<token name="PhysicsEnvironmentalThrottle">0</token>
+			<bool name="ShowDecompositionGeometry">false</bool>
+			<bool name="ShowFluidForcesForSelectedOrHoveredMechanisms">false</bool>
+			<bool name="ShowInstanceNamesForDrawnForcesAndTorques">false</bool>
+			<token name="SolverConvergenceMetricType">1</token>
+			<token name="SolverConvergenceVisualizationMode">0</token>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+			<double name="ThrottleAdjustTime">1</double>
+			<float name="TorqueDrawScale">1</float>
+			<bool name="UseCSGv2">false</bool>
+		</Properties>
+	</Item>
+	<Item class="Studio" referent="RBXF9436257CDED4FEAA22EA6D5906777C6">
+		<Properties>
+			<token name="ActionOnStopSync">0</token>
+			<Color3 name="Active Color">
+				<R>1</R>
+				<G>0.5</G>
+				<B>0</B>
+			</Color3>
+			<Color3 name="Active Hover Over Color">
+				<R>1</R>
+				<G>0.800000012</G>
+				<B>0.600000024</B>
+			</Color3>
+			<bool name="Always Save Script Changes">false</bool>
+			<bool name="Animate Hover Over">false</bool>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<bool name="Auto Clean Empty Line">true</bool>
+			<bool name="Auto Closing Brackets">true</bool>
+			<bool name="Auto Closing Quotes">true</bool>
+			<bool name="Auto Delete Closing Brackets and Quotes">true</bool>
+			<token name="Auto Indent Rule">1</token>
+			<bool name="Auto-Recovery Enabled">true</bool>
+			<int name="Auto-Recovery Interval (Minutes)">5</int>
+			<bool name="Automatically trigger AI Code Completion">true</bool>
+			<token name="Basic Objects Display Mode">1</token>
+			<float name="Camera Mouse Wheel Speed">15</float>
+			<float name="Camera Pan Speed">1</float>
+			<float name="Camera Shift Speed">0.200000003</float>
+			<float name="Camera Speed">0.100000001</float>
+			<token name="Camera Speed Adjust Binding">1</token>
+			<bool name="Camera Zoom to Mouse Position">true</bool>
+			<bool name="CameraAdaptiveSpeed">true</bool>
+			<bool name="CameraTweenFocus">true</bool>
+			<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+			<bool name="Clear Output On Start">true</bool>
+			<bool name="CommandBarLocalState">false</bool>
+			<QDir name="DefaultScriptFileDir">C:/Users/jlindsay/Documents/ROBLOX/Scripts</QDir>
+			<bool name="DefinesCapabilities">false</bool>
+			<bool name="DeprecatedObjectsShown">false</bool>
+			<string name="DisplayLanguage"></string>
+			<Color3 name="DraggerActiveColor">
+				<R>1</R>
+				<G>1</G>
+				<B>0</B>
+			</Color3>
+			<int name="DraggerMajorGridIncrement">5</int>
+			<int name="DraggerMaxSoftSnaps">32</int>
+			<Color3 name="DraggerPassiveColor">
+				<R>1</R>
+				<G>1</G>
+				<B>1</B>
+			</Color3>
+			<bool name="DraggerShowHoverRuler">true</bool>
+			<bool name="DraggerShowMeasurement">true</bool>
+			<bool name="DraggerShowTargetSnap">true</bool>
+			<float name="DraggerSoftSnapMarginFactor">1</float>
+			<float name="DraggerSummonMarginFactor">1</float>
+			<float name="DraggerTiltRotateDuration">0.129999995</float>
+			<bool name="Enable Autocomplete">true</bool>
+			<bool name="Enable Autocomplete Doc View">true</bool>
+			<bool name="Enable CoreScript Debugger">false</bool>
+			<bool name="Enable Http Sandboxing">false</bool>
+			<bool name="Enable Internal Beta Features">false</bool>
+			<bool name="Enable Internal Features">true</bool>
+			<bool name="Enable Script Analysis">true</bool>
+			<bool name="Enable Scrollbar Markers">true</bool>
+			<bool name="Enable Signature Help">true</bool>
+			<bool name="Enable Signature Help Doc View">true</bool>
+			<bool name="Enable Temporary Tabs">true</bool>
+			<bool name="Enable Temporary Tabs In Explorer">false</bool>
+			<bool name="Enable Type Hover">true</bool>
+			<bool name="EnableCodeAssist">true</bool>
+			<bool name="EnableIndentationRulers">true</bool>
+			<bool name="EnableOnTypeAutocomplete">true</bool>
+			<QFont name="Font">Fira Mono,10,-1,5,50,0,0,0,0,0</QFont>
+			<bool name="Format On Paste">true</bool>
+			<bool name="Format On Type">true</bool>
+			<bool name="FreeCameraSpeedScroll">true</bool>
+			<bool name="Highlight Current Line">true</bool>
+			<bool name="Highlight Occurances">true</bool>
+			<token name="Hover Animate Speed">1</token>
+			<float name="Hover Box Thickness">4</float>
+			<int name="Hover Line Thickness">4</int>
+			<Color3 name="Hover Over Color">
+				<R>0.699999988</R>
+				<G>0.899999976</G>
+				<B>1</B>
+			</Color3>
+			<QDir name="IconOverrideDir">C:/Users/jlindsay/AppData/Local/Roblox/CustomIconDirectory</QDir>
+			<bool name="Indent Using Spaces">false</bool>
+			<int name="LargeFileLineCountThreshold">5000</int>
+			<int name="LargeFileThreshold">1000000</int>
+			<float name="Line Thickness">0.0399999991</float>
+			<bool name="LoadAllBuiltinPluginsInRunModes">false</bool>
+			<bool name="LoadUserPluginsInRunModes">true</bool>
+			<QDir name="LocalAssetsFolder">C:/Users/jlindsay/AppData/Local/Roblox/LocalAssets</QDir>
+			<bool name="LuaDebuggerEnabled">true</bool>
+			<float name="Main Volume">1</float>
+			<int name="Maximum Output Lines">5000</int>
+			<string name="Name">Studio</string>
+			<bool name="Only Play Audio from Window in Focus">true</bool>
+			<QFont name="Output Font">Fira Mono,10,-1,5,50,0,0,0,0,0</QFont>
+			<token name="Output Layout Mode">1</token>
+			<token name="PermissionLevelShown">0</token>
+			<bool name="Physical Draggers Select Scope By Default">true</bool>
+			<Color3 name="Pivot Snap To Geometry Color">
+				<R>1</R>
+				<G>0</G>
+				<B>1</B>
+			</Color3>
+			<bool name="PluginDebuggingEnabled">false</bool>
+			<QDir name="PluginsDir">C:/Users/jlindsay/AppData/Local/Roblox/Plugins</QDir>
+			<bool name="ReloadBuiltinPluginsOnChange">false</bool>
+			<bool name="ReloadLocalPluginsOnChange">false</bool>
+			<bool name="Respect Studio shortcuts when game has focus">true</bool>
+			<string name="Rulers"></string>
+			<token name="RuntimeUndoBehavior">0</token>
+			<token name="Script Editor Color Preset">3</token>
+			<bool name="ScriptEditorShouldShowPluginMethods">false</bool>
+			<int name="ScriptTimeoutLength">10</int>
+			<bool name="Scroll Past Last Line">true</bool>
+			<Color3 name="Select Color">
+				<R>0.100000001</R>
+				<G>0.600000024</G>
+				<B>1</B>
+			</Color3>
+			<Color3 name="Select/Hover Color">
+				<R>0.699999988</R>
+				<G>0.699999988</G>
+				<B>0.699999988</B>
+			</Color3>
+			<float name="Selection Box Thickness">1</float>
+			<int name="Selection Line Thickness">2</int>
+			<bool name="Set Pivot of Imported Parts">false</bool>
+			<bool name="Show Core GUI in Explorer while Playing">false</bool>
+			<bool name="Show Diagnostics Bar">false</bool>
+			<bool name="Show FileSyncService">false</bool>
+			<bool name="Show Hidden Objects in Explorer">false</bool>
+			<bool name="Show Hover Over">true</bool>
+			<bool name="Show Light Guides">true</bool>
+			<bool name="Show Navigation Labels">false</bool>
+			<bool name="Show Navigation Mesh">false</bool>
+			<bool name="Show Pathfinding Links">true</bool>
+			<bool name="Show Plugin GUI Service in Explorer">false</bool>
+			<bool name="Show Singly Selected Attachment Parent Frame">false</bool>
+			<bool name="Show Whitespace">false</bool>
+			<bool name="Show plus button on hover in Explorer">true</bool>
+			<bool name="ShowCorePackagesInExplorer">false</bool>
+			<bool name="Skip Closing Brackets and Quotes">true</bool>
+			<int64 name="SourceAssetId">-1</int64>
+			<int name="Tab Width">4</int>
+			<BinaryString name="Tags"></BinaryString>
+			<bool name="Text Wrapping">false</bool>
+			<bool name="Use Bounding Box Move Handles">false</bool>
+		</Properties>
+	</Item>
+	<Item class="NetworkSettings" referent="RBX4A80555073BA469198EDF56089A15CD5">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+			<bool name="DefinesCapabilities">false</bool>
+			<bool name="HttpProxyEnabled">false</bool>
+			<string name="HttpProxyURL"></string>
+			<double name="IncomingReplicationLag">0</double>
+			<string name="Name">Network</string>
+			<bool name="PrintJoinSizeBreakdown">false</bool>
+			<bool name="PrintPhysicsErrors">false</bool>
+			<bool name="PrintStreamInstanceQuota">false</bool>
+			<bool name="RandomizeJoinInstanceOrder">true</bool>
+			<bool name="RenderStreamedRegions">false</bool>
+			<bool name="ShowActiveAnimationAsset">false</bool>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+		</Properties>
+	</Item>
+	<Item class="RenderSettings" referent="RBX5751754818C4452D911A255EE943B3F4">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<int name="AutoFRMLevel">1</int>
+			<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+			<bool name="DefinesCapabilities">false</bool>
+			<bool name="EagerBulkExecution">false</bool>
+			<token name="EditQualityLevel">0</token>
+			<bool name="Enable VR Mode">true</bool>
+			<bool name="ExportMergeByMaterial">false</bool>
+			<token name="FrameRateManager">0</token>
+			<token name="GraphicsMode">1</token>
+			<int name="MeshCacheSize">33554432</int>
+			<token name="MeshPartDetailLevel">0</token>
+			<string name="Name">Rendering</string>
+			<token name="QualityLevel">0</token>
+			<bool name="ReloadAssets">false</bool>
+			<bool name="RenderCSGTrianglesDebug">false</bool>
+			<bool name="ShowBoundingBoxes">false</bool>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+			<token name="ViewMode">0</token>
+		</Properties>
+	</Item>
+	<Item class="TaskScheduler" referent="RBXE07DFB815F5A434C8EC931F8ACC7F520">
+		<Properties>
+			<BinaryString name="AttributesSerialize"></BinaryString>
+			<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+			<bool name="DefinesCapabilities">false</bool>
+			<string name="Name">Task Scheduler</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags"></BinaryString>
+			<token name="ThreadPoolConfig">0</token>
+		</Properties>
+	</Item>
+</roblox>
